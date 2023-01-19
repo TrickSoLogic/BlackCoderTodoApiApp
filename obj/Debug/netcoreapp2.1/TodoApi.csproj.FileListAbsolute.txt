@@ -1,0 +1,36 @@
+C:\Users\visha\Desktop\New Arrival Zip projects\New List\ASP-master\TodoApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\visha\Desktop\New Arrival Zip projects\New List\ASP-master\TodoApi\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\visha\Desktop\New Arrival Zip projects\New List\ASP-master\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.deps.json
+C:\Users\visha\Desktop\New Arrival Zip projects\New List\ASP-master\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.json
+C:\Users\visha\Desktop\New Arrival Zip projects\New List\ASP-master\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.dev.json
+C:\Users\visha\Desktop\New Arrival Zip projects\New List\ASP-master\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.dll
+C:\Users\visha\Desktop\New Arrival Zip projects\New List\ASP-master\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.pdb
+C:\Users\visha\Desktop\New Arrival Zip projects\New List\ASP-master\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.csproj.AssemblyReference.cache
+C:\Users\visha\Desktop\New Arrival Zip projects\New List\ASP-master\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\Desktop\New Arrival Zip projects\New List\ASP-master\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfoInputs.cache
+C:\Users\visha\Desktop\New Arrival Zip projects\New List\ASP-master\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfo.cs
+C:\Users\visha\Desktop\New Arrival Zip projects\New List\ASP-master\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\visha\Desktop\New Arrival Zip projects\New List\ASP-master\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cache
+C:\Users\visha\Desktop\New Arrival Zip projects\New List\ASP-master\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cs
+C:\Users\visha\Desktop\New Arrival Zip projects\New List\ASP-master\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorTargetAssemblyInfo.cache
+C:\Users\visha\Desktop\New Arrival Zip projects\New List\ASP-master\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.dll
+C:\Users\visha\Desktop\New Arrival Zip projects\New List\ASP-master\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.pdb
+C:\Users\visha\Desktop\New Arrival Zip projects\New List\ASP-master\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.genruntimeconfig.cache
+C:\Users\visha\Desktop\Working On\TodoApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\visha\Desktop\Working On\TodoApi\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\visha\Desktop\Working On\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.deps.json
+C:\Users\visha\Desktop\Working On\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.json
+C:\Users\visha\Desktop\Working On\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.dev.json
+C:\Users\visha\Desktop\Working On\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.dll
+C:\Users\visha\Desktop\Working On\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.pdb
+C:\Users\visha\Desktop\Working On\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.csproj.AssemblyReference.cache
+C:\Users\visha\Desktop\Working On\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\Desktop\Working On\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfoInputs.cache
+C:\Users\visha\Desktop\Working On\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfo.cs
+C:\Users\visha\Desktop\Working On\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\visha\Desktop\Working On\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cache
+C:\Users\visha\Desktop\Working On\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cs
+C:\Users\visha\Desktop\Working On\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorTargetAssemblyInfo.cache
+C:\Users\visha\Desktop\Working On\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.dll
+C:\Users\visha\Desktop\Working On\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.pdb
+C:\Users\visha\Desktop\Working On\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.genruntimeconfig.cache
